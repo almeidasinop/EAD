@@ -1,0 +1,93 @@
+{
+    "directory": [
+        {
+            "name" : "application/views/mobile/stripe"
+        },
+        {
+            "name" : "application/views/payment/stripe"
+        }
+    ],
+    "sql_file": "",
+    "files": [
+      {
+          "root_directory"    : "update/update_4.0.1/application/controllers/Admin.php",
+          "update_directory"  : "application/controllers/Admin.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/controllers/Home.php",
+          "update_directory"  : "application/controllers/Home.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/controllers/User.php",
+          "update_directory"  : "application/controllers/User.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/models/Api_model.php",
+          "update_directory"  : "application/models/Api_model.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/models/Payment_model.php",
+          "update_directory"  : "application/models/Payment_model.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/backend/admin/instructor_payout.php",
+          "update_directory"  : "application/views/backend/admin/instructor_payout.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/backend/admin/payment_settings.php",
+          "update_directory"  : "application/views/backend/admin/payment_settings.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/backend/admin/stripe_checkout_for_instructor_revenue.php",
+          "update_directory"  : "application/views/backend/admin/stripe_checkout_for_instructor_revenue.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/lessons/common_scripts.php",
+          "update_directory"  : "application/views/lessons/common_scripts.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/mobile/includes_top.php",
+          "update_directory"  : "application/views/mobile/includes_top.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/mobile/index.php",
+          "update_directory"  : "application/views/mobile/index.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/mobile/payment_gateway.php",
+          "update_directory"  : "application/views/mobile/payment_gateway.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/mobile/shopping_cart.php",
+          "update_directory"  : "application/views/mobile/shopping_cart.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/payment/includes_top.php",
+          "update_directory"  : "application/views/payment/includes_top.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/payment/index.php",
+          "update_directory"  : "application/views/payment/index.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/payment/payment_gateway.php",
+          "update_directory"  : "application/views/payment/payment_gateway.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/backend/admin/stripe_payment_gateway_form.php",
+          "update_directory"  : "application/views/backend/admin/stripe_payment_gateway_form.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/mobile/stripe/stripe_payment_gateway_form.php",
+          "update_directory"  : "application/views/mobile/stripe/stripe_payment_gateway_form.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/payment/stripe/stripe_checkout.php",
+          "update_directory"  : "application/views/payment/stripe/stripe_checkout.php"
+      },
+      {
+          "root_directory"    : "update/update_4.0.1/application/views/payment/stripe/stripe_payment_gateway_form.php",
+          "update_directory"  : "application/views/payment/stripe/stripe_payment_gateway_form.php"
+      }
+    ]
+  }
